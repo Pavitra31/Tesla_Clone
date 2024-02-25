@@ -10,7 +10,6 @@ Tesla Clone with React.js, React Revel, and Material-UI
 
 This project is a clone of the Tesla website built using React.js, React Revel, and Material-UI. The purpose of this clone is to showcase the development skills and demonstrate the ability to recreate a modern and visually appealing website like Tesla.
 
- https://github.com/HarshSingh21/Tesla_Clone_/assets/94156692/50c14fd3-f179-4d29-bd8c-52f3fc5fbdad
 
 <br>
 
@@ -35,13 +34,13 @@ Video Presentation: To provide a better insight into the Tesla clone, a video pr
 
 ## Screenshort 
 
-![Tesla-Clone (1)](https://github.com/HarshSingh21/Tesla_Clone_/assets/94156692/7636a8df-4e92-4052-9063-20291b87abc6)
+![Tesla-Clone (1)](https://github.com/Pavitra31/Tesla_Clone.git)
 <br>
 
 <br>
 # Installation and Usage  :-
 
-Clone the repository:  `git clone https://github.com/HarshSingh21/Tesla_Clone_.git`
+Clone the repository:  `git clone https://github.com/Pavitra31/Tesla_Clone.git`
 <br>
 Install dependencies:   `npm install`
 <br>
